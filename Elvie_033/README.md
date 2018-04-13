@@ -1,6 +1,6 @@
 Elvie #033
 ==========
-This strip appeared in issue #293 of Linux (Pro) Magazine. Whilst creating this strip we were unaware that
+This strip appeared in issue #193 of Linux (Pro) Magazine. Whilst creating this strip we were unaware that
 Linux Voice was being absorbed into Linux (Pro) Magazine. Fortunately the article that this strip was designed
 to accompany - on "NoSQL" databases - was still included in the Linux Voice section of the magazine.
 

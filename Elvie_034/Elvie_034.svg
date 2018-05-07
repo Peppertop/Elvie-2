@@ -128,8 +128,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.014753"
-     inkscape:cx="318.89764"
-     inkscape:cy="141.73228"
+     inkscape:cx="319.89032"
+     inkscape:cy="139.74692"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -191,6 +191,7 @@ What's yours about?
 [Panel 3: The computer now shows the start screen for the game - it looks like Super Mario Bros but with Tux dressed as Mario. The game is called &quot;Mega Penguin Siblings&quot;]
 
 Elvie: Erm… it's about a penguin with a moustache, who just happens to also be a plumber, and friends with a princess…</dc:description>
+        <dc:date>2016-11-01</dc:date>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
@@ -231,31 +232,31 @@ Elvie: Erm… it's about a penguin with a moustache, who just happens to also be
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_034/034_panel_3.png"
        xlink:href="034_panel_3.png"
-       clip-path="url(#clipPath3118)"
-       style="opacity:1"
-       width="260.51492"
-       height="281.9548"
-       id="image3115"
+       y="765.59406"
        x="412.92902"
-       y="765.59406" />
+       id="image3115"
+       height="281.9548"
+       width="260.51492"
+       style="opacity:1"
+       clip-path="url(#clipPath3118)" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_034/034_panel_2.png"
        xlink:href="034_panel_2.png"
-       clip-path="url(#clipPath3103)"
-       width="263.29767"
-       height="279.08957"
-       id="image3100"
+       y="774.00323"
        x="205.06024"
-       y="774.00323" />
+       id="image3100"
+       height="279.08957"
+       width="263.29767"
+       clip-path="url(#clipPath3103)" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_034/034_panel_1.png"
        xlink:href="034_panel_1.png"
-       mask="url(#mask3086)"
-       width="252.32361"
-       height="271.73312"
-       id="image3083"
+       y="780.98712"
        x="0.030547107"
-       y="780.98712" />
+       id="image3083"
+       height="271.73312"
+       width="252.32361"
+       mask="url(#mask3086)" />
     <a
        id="a3771"
        xlink:href="http://www.peppertop.com"

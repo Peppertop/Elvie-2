@@ -2,7 +2,7 @@ Elvie #037
 ==========
 This strip appeared in issue #197 of Linux (Pro) Magazine, after it was confirmed that the Democrats' email
 server was almost certainly hacked by Russian state actors. This strip is a reworking of, and direct reference
-to, our earlier strip (http://peppertop.com/elvie/comic/elvie-017/) which poked fun at the equivalient Western
+to, our earlier strip (http://peppertop.com/elvie/comic/elvie-017/) which poked fun at the equivalent Western
 surveillance machine.
 
 

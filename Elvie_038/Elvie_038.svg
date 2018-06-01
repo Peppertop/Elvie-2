@@ -192,8 +192,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.014753"
-     inkscape:cx="318.89764"
-     inkscape:cy="141.73228"
+     inkscape:cx="319.89032"
+     inkscape:cy="139.74692"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -219,7 +219,7 @@
         <dc:title>Elvie #038</dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
-        <dc:date>2017-02-01</dc:date>
+        <dc:date>2017-02-26</dc:date>
         <dc:creator>
           <cc:Agent>
             <dc:title>Peppertop Comics</dc:title>
@@ -792,14 +792,14 @@ DESCRIPTION
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_038/038_Elvie_reflection.png"
        xlink:href="038_Elvie_reflection.png"
-       transform="translate(0,-540)"
-       style="display:inline;opacity:0.1"
-       y="547.22253"
-       x="37.097652"
-       id="image6276"
-       preserveAspectRatio="none"
-       height="315.49734"
+       clip-path="url(#clipPath1745)"
        width="149.26396"
-       clip-path="url(#clipPath1745)" />
+       height="315.49734"
+       preserveAspectRatio="none"
+       id="image6276"
+       x="37.097652"
+       y="547.22253"
+       style="display:inline;opacity:0.1"
+       transform="translate(0,-540)" />
   </g>
 </svg>

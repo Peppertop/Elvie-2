@@ -14,11 +14,13 @@
    height="283.46457"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 unknown"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Elvie_042.svg"
    inkscape:export-filename="/home/xav/Desktop/Elvie/Strips/042_LM#202/Elvie_042_en-GB.png"
    inkscape:export-xdpi="600.07501"
    inkscape:export-ydpi="600.07501">
+  <title
+     id="title102">Elvie #042</title>
   <defs
      id="defs4">
     <linearGradient
@@ -173,9 +175,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1872222"
-     inkscape:cx="321.64084"
-     inkscape:cy="136.24588"
+     inkscape:zoom="1.8814814"
+     inkscape:cx="318.89764"
+     inkscape:cy="141.73228"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -197,8 +199,57 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>Elvie #042</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Peppertop Comics</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:identifier>http://peppertop.com/elvie/comic/elvie-042/</dc:identifier>
+        <dc:source>http://peppertop.com/elvie/comic/elvie-042/</dc:source>
+        <dc:language>en-GB</dc:language>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Vincent Mealing
+Mark Crutch</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:date>2017-06-18</dc:date>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Wannacry</rdf:li>
+            <rdf:li>Ransomware</rdf:li>
+            <rdf:li>Bitcoin</rdf:li>
+            <rdf:li>Cryptocurrency</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>[Panel 1: Elvie and her friend are in front of a computer that has been locked by ransomware and is asking for payment in Bitcoin]
+
+Elvie: If you haven't got any backups then your only option is
+to pay the ransom
+
+[Panel 2]
+
+Friend: I would do -- but it's also encrypted my Bitcoin wallet!
+</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -244,27 +295,27 @@
          y="1049.1158"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Komika Text Kaps';-inkscape-font-specification:'Komika Text Kaps';fill:#000000;stroke:none">CC-BY-SA</tspan></text>
     <image
-       sodipodi:absref="/home/xav/Desktop/Elvie/Strips/042_LM#202/042_panel_1.png"
+       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_042/042_panel_1.png"
        xlink:href="042_panel_1.png"
-       y="744.24011"
-       x="9.5483389"
-       id="image3806"
-       preserveAspectRatio="none"
-       height="347.34293"
-       width="325.23932"
+       mask="url(#mask4691)"
        style="stroke-width:10.97858334"
-       mask="url(#mask4691)" />
-    <image
-       sodipodi:absref="/home/xav/Desktop/Elvie/Strips/042_LM#202/042_panel_2.png"
-       xlink:href="042_panel_2.png"
-       y="743.1709"
-       x="327.7533"
-       id="image3817"
+       width="325.23932"
+       height="347.34293"
        preserveAspectRatio="none"
-       height="350.81912"
-       width="350.0762"
+       id="image3806"
+       x="9.5483389"
+       y="744.24011" />
+    <image
+       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_042/042_panel_2.png"
+       xlink:href="042_panel_2.png"
+       clip-path="url(#clipPath5328)"
        style="opacity:1;stroke-width:10.7671814"
-       clip-path="url(#clipPath5328)" />
+       width="350.0762"
+       height="350.81912"
+       preserveAspectRatio="none"
+       id="image3817"
+       x="327.7533"
+       y="743.1709" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -324,7 +375,7 @@
            x="157.74525"
            sodipodi:role="line"
            style="font-size:12px;line-height:1;text-align:center;text-anchor:middle"
-           id="tspan4747">if you</tspan><tspan
+           id="tspan4747">If you</tspan><tspan
            y="824.47229"
            x="157.74525"
            sodipodi:role="line"

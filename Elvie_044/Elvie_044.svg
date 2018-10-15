@@ -20,7 +20,7 @@
    inkscape:export-xdpi="600.07501"
    inkscape:export-ydpi="600.07501">
   <title
-     id="title3871">Elvie #043</title>
+     id="title3871">Elvie #044</title>
   <defs
      id="defs4">
     <linearGradient
@@ -155,8 +155,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8814814"
-     inkscape:cx="318.89764"
-     inkscape:cy="141.73228"
+     inkscape:cx="319.96063"
+     inkscape:cy="139.6063"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -178,7 +178,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Elvie #043</dc:title>
+        <dc:title>Elvie #044</dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:date>2017-08-20</dc:date>
@@ -274,15 +274,15 @@ Jessica: Mummy! Effie's just found a u+1f4a9!!!</dc:description>
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_044/044_panel_1.png"
        xlink:href="044_panel_1.png"
-       mask="url(#mask177)"
-       y="784.87598"
-       x="12.675207"
-       id="image193"
-       preserveAspectRatio="none"
-       height="267.96713"
-       width="341.66318"
+       clip-path="none"
        style="stroke-width:13.02647305"
-       clip-path="none" />
+       width="341.66318"
+       height="267.96713"
+       preserveAspectRatio="none"
+       id="image193"
+       x="12.675207"
+       y="784.87598"
+       mask="url(#mask177)" />
     <g
        id="g208"
        transform="matrix(1.0416947,0,0,1.0416947,-313.27295,-45.645526)"
@@ -906,14 +906,14 @@ Jessica: Mummy! Effie's just found a u+1f4a9!!!</dc:description>
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_044/044_panel_2.png"
        xlink:href="044_panel_2.png"
-       clip-path="url(#clipPath218)"
-       style="stroke-width:12.46738911"
-       width="412.16858"
-       height="269.71698"
-       preserveAspectRatio="none"
-       id="image200"
+       y="783.15619"
        x="282.13333"
-       y="783.15619" />
+       id="image200"
+       preserveAspectRatio="none"
+       height="269.71698"
+       width="412.16858"
+       style="stroke-width:12.46738911"
+       clip-path="url(#clipPath218)" />
   </g>
   <g
      inkscape:groupmode="layer"

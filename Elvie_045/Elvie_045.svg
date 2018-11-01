@@ -144,8 +144,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8814814"
-     inkscape:cx="318.89764"
-     inkscape:cy="141.73228"
+     inkscape:cx="319.96063"
+     inkscape:cy="139.6063"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -175,8 +175,8 @@
             <dc:title>Peppertop Comics</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:identifier>http://peppertop.com/elvie/comic/elvie-044/</dc:identifier>
-        <dc:source>http://peppertop.com/elvie/comic/elvie-044/</dc:source>
+        <dc:identifier>http://peppertop.com/elvie/comic/elvie-045/</dc:identifier>
+        <dc:source>http://peppertop.com/elvie/comic/elvie-045/</dc:source>
         <dc:language>en-GB</dc:language>
         <dc:subject>
           <rdf:Bag>
@@ -245,26 +245,26 @@ Mum: Wow! That's a bargain! And twelve inches is such a handy size that you coul
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_045/045_panel_2.png"
        xlink:href="045_panel_2.png"
-       clip-path="url(#clipPath131)"
-       style="stroke-width:15.50510216"
-       width="377.85416"
-       height="302.69611"
-       preserveAspectRatio="none"
-       id="image120"
-       x="268.47498"
+       transform="translate(-0.45720092)"
        y="753.28021"
-       transform="translate(-0.45720092)" />
+       x="268.47498"
+       id="image120"
+       preserveAspectRatio="none"
+       height="302.69611"
+       width="377.85416"
+       style="stroke-width:15.50510216"
+       clip-path="url(#clipPath131)" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_045/045_panel_1.png"
        xlink:href="045_panel_1.png"
-       clip-path="url(#clipPath127)"
-       style="stroke-width:15.26311874"
-       width="378.07913"
-       height="292.55707"
-       preserveAspectRatio="none"
-       id="image109"
+       y="758.03882"
        x="-48.073601"
-       y="758.03882" />
+       id="image109"
+       preserveAspectRatio="none"
+       height="292.55707"
+       width="378.07913"
+       style="stroke-width:15.26311874"
+       clip-path="url(#clipPath127)" />
   </g>
   <g
      inkscape:groupmode="layer"

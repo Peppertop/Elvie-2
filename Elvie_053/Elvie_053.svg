@@ -104,7 +104,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.286"
+     inkscape:zoom="2.0555185"
      inkscape:cx="318.89764"
      inkscape:cy="141.73228"
      inkscape:document-units="px"
@@ -162,6 +162,7 @@ Elvie: So you've deleted all your accounts, and switched to open alternatives, l
 
 Friend: No… but I have liked, shared and retweeted the news
 stories, to warn all my friends.</dc:description>
+        <dc:date>2018-05-22</dc:date>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
@@ -225,25 +226,25 @@ stories, to warn all my friends.</dc:description>
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_053/053_panel_1.png"
        xlink:href="053_panel_1.png"
-       y="757.80298"
-       x="12.283652"
-       id="image89"
-       preserveAspectRatio="none"
-       height="328.04413"
+       clip-path="url(#clipPath107)"
        width="395.33524"
-       clip-path="url(#clipPath107)" />
+       height="328.04413"
+       preserveAspectRatio="none"
+       id="image89"
+       x="12.283652"
+       y="757.80298" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_053/053_panel_2.png"
        xlink:href="053_panel_2.png"
-       transform="translate(-0.49633876)"
-       y="766.91687"
-       x="368.25122"
-       id="image119"
-       preserveAspectRatio="none"
-       height="301.34991"
-       width="374.65125"
+       clip-path="url(#clipPath137)"
        style="opacity:1"
-       clip-path="url(#clipPath137)" />
+       width="374.65125"
+       height="301.34991"
+       preserveAspectRatio="none"
+       id="image119"
+       x="368.25122"
+       y="766.91687"
+       transform="translate(-0.49633876)" />
   </g>
   <g
      inkscape:groupmode="layer"

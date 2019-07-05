@@ -14,6 +14,10 @@ https://github.com/Peppertop/Elvie
 List of Fonts
 -------------
 
-* Comic Neue Bold - Used in Elvie #33 to give a more authentic appearance to the speech bubble of the
-                    character inspired by an XKCD comic. See that strip's README.md for more details.
+* Comic Neue Bold - Used in Elvie #33 to give a more authentic appearance to the speech bubble of the character inspired by an XKCD comic. See that strip's README.md for more details.
+
+* Anton - Used in Elvie #54 for the heading of the "Ocean's 8" film poster. See that strip's README.md for more details.
+
+* Kalam Bold - Used in Elvie #54 to give Bob's handwriting a different style to the rest of the text in the strip. Original source: https://github.com/itfoundry/kalam
+
 

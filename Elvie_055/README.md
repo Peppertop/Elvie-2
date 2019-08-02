@@ -1,10 +1,10 @@
 Elvie #055
 ==========
 This strip first appeared in issue #215 of Linux (Pro) Magazine. This one was based on the true story of my
-own 1982-vintage Cherry keyboard, rescued from a dumpster, cleaned and brought back into service - to the
+own 1984-vintage Cherry keyboard, rescued from a dumpster, cleaned and brought back into service - to the
 annoyance of my colleagues at the time.
 
-Because there was no such thing as a 'Windows' (aka 'Super') key back in 1983, I even ended up getting hold
+Because there was no such thing as a 'Windows' (aka 'Super') key back in 1984, I even ended up getting hold
 of a small microcontroller on a USB-stick form factor, and programming it to send a suitable keypress when
 a button on the board was pressed. It rarely got used, but just occasionally I would come across a piece of
 software or functionality that would _only_ work with the Windows key, so the creation of this little dongle

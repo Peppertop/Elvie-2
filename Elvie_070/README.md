@@ -1,8 +1,7 @@
 Elvie #070
 ==========
-This strip first appeared in issue #229 of Linux (Pro) Magazine, and is the second in a trilogy of strips following
-Elvie's efforts to make some money by selling some geeky merchandise. In a change from our usual panel layout and
-style, this strip showcases some of her designs, rather than focusing on a single narrative joke.
+This strip first appeared in issue #230 of Linux (Pro) Magazine, and is the last in a trilogy of strips following
+Elvie's efforts to make some money by selling some geeky merchandise. This is one of our favourite strips – possibly because it could so easily have been a Greys strip instead (but you would have had to wait a lot longer for us to produce that one!).
 
 
 File Details

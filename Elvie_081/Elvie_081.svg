@@ -115,7 +115,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.8030864"
      inkscape:cx="318.89764"
-     inkscape:cy="141.73228"
+     inkscape:cy="140.62307"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -171,7 +171,7 @@ Elvie: Why are you wearing a mask?
 
 Friend: Because I don't trust the government.
 
-[Panel 2: The scene is similar, but the café is less crowded and the tables more widely spaced. There are now additional signs indicating that masks must be worn (due to covid-19). Everyone is wearing a mask or protective outfit of some sort _except_ Elvie's friend]
+[Panel 2, caption: &quot;2020&quot;: The scene is similar, but the café is less crowded and the tables more widely spaced. There are now additional signs indicating that masks must be worn (due to covid-19). Everyone is wearing a mask or protective outfit of some sort _except_ Elvie's friend]
 
 Elvie: Why *aren't* you wearing a mask?
 
@@ -251,25 +251,25 @@ Friend: Because I don't trust the government.
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_081/081_panel_2.png"
        xlink:href="081_panel_2.png"
-       clip-path="url(#clipPath116)"
-       width="389.53186"
-       height="323.03918"
-       preserveAspectRatio="none"
-       id="image77"
+       y="758.74628"
        x="293.89856"
-       y="758.74628" />
+       id="image77"
+       preserveAspectRatio="none"
+       height="323.03918"
+       width="389.53186"
+       clip-path="url(#clipPath116)" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_081/081_panel_1.png"
        xlink:href="081_panel_1.png"
-       mask="url(#mask87)"
-       clip-path="none"
-       style="opacity:1"
-       width="394.06528"
-       height="325.92261"
-       preserveAspectRatio="none"
-       id="image156"
+       y="758.03851"
        x="-28.325844"
-       y="758.03851" />
+       id="image156"
+       preserveAspectRatio="none"
+       height="325.92261"
+       width="394.06528"
+       style="opacity:1"
+       clip-path="none"
+       mask="url(#mask87)" />
   </g>
   <g
      inkscape:groupmode="layer"

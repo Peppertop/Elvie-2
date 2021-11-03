@@ -31,7 +31,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.6290494"
      inkscape:cx="318.89764"
-     inkscape:cy="141.73228"
+     inkscape:cy="140.50457"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -323,6 +323,15 @@ James: I haven't read a newspaper in years -- I get all my news off the internet
 
 So I've put down a load of old phones and tablets instead.
 </dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>DIY</rdf:li>
+            <rdf:li>home improvements</rdf:li>
+            <rdf:li>newspapers</rdf:li>
+            <rdf:li>tablets</rdf:li>
+            <rdf:li>phones</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
@@ -363,22 +372,22 @@ So I've put down a load of old phones and tablets instead.
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_082/082_panel_2.png"
        xlink:href="082_panel_2.png"
-       id="image12007"
-       preserveAspectRatio="none"
-       height="3790.6667"
-       width="5424"
-       transform="matrix(0.07613158,0,0,0.07613158,262.03162,766.04866)"
+       clip-path="url(#clipPath12010)"
        style="stroke-width:13.13515282"
-       clip-path="url(#clipPath12010)" />
+       transform="matrix(0.07613158,0,0,0.07613158,262.03162,766.04866)"
+       width="5424"
+       height="3790.6667"
+       preserveAspectRatio="none"
+       id="image12007" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_082/082_panel_1.png"
        xlink:href="082_panel_1.png"
-       mask="url(#mask92)"
-       transform="matrix(0.07651847,0,0,0.07651847,-3.589678,773.53068)"
-       width="4960"
-       height="3617.3333"
+       id="image89"
        preserveAspectRatio="none"
-       id="image89" />
+       height="3617.3333"
+       width="4960"
+       transform="matrix(0.07651847,0,0,0.07651847,-3.589678,773.53068)"
+       mask="url(#mask92)" />
     <text
        id="text3092"
        y="1049.1158"

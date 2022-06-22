@@ -139,7 +139,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.7748642"
      inkscape:cx="318.89764"
-     inkscape:cy="141.73228"
+     inkscape:cy="140.60543"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -256,36 +256,36 @@ Martian: …and extracted an image of their supreme leader!
            sodipodi:role="line">CC-BY-SA</tspan></text>
     </g>
     <image
-       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_088/Elvie_088_panel_1.png"
-       xlink:href="Elvie_088_panel_1.png"
-       clip-path="none"
-       width="316.1351"
-       height="305.89215"
-       preserveAspectRatio="none"
-       id="image64"
-       x="-48.009048"
+       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_088/088_panel_1.png"
+       xlink:href="088_panel_1.png"
+       mask="url(#mask89)"
        y="744.0094"
-       mask="url(#mask89)" />
-    <image
-       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_088/Elvie_088_panel_2.png"
-       xlink:href="Elvie_088_panel_2.png"
-       clip-path="url(#clipPath112)"
-       width="226.97493"
-       height="280.4086"
+       x="-48.009048"
+       id="image64"
        preserveAspectRatio="none"
-       id="image94"
+       height="305.89215"
+       width="316.1351"
+       clip-path="none" />
+    <image
+       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_088/088_panel_2.png"
+       xlink:href="088_panel_2.png"
+       y="772.82269"
        x="194.70509"
-       y="772.82269" />
-    <image
-       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_088/Elvie_088_panel_3.png"
-       xlink:href="Elvie_088_panel_3.png"
-       clip-path="url(#clipPath142)"
-       width="261.89423"
-       height="317.26382"
+       id="image94"
        preserveAspectRatio="none"
-       id="image124"
+       height="280.4086"
+       width="226.97493"
+       clip-path="url(#clipPath112)" />
+    <image
+       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_088/088_panel_3.png"
+       xlink:href="088_panel_3.png"
+       y="728.0838"
        x="390.78296"
-       y="728.0838" />
+       id="image124"
+       preserveAspectRatio="none"
+       height="317.26382"
+       width="261.89423"
+       clip-path="url(#clipPath142)" />
   </g>
   <g
      inkscape:groupmode="layer"

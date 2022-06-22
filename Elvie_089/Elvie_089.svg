@@ -140,9 +140,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.9081358"
      inkscape:cx="318.89764"
-     inkscape:cy="140.68414"
+     inkscape:cy="139.636"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1326"
      inkscape:window-height="1003"
@@ -254,31 +254,31 @@ Controller 5: Come on team, we can fix this. We are *rocket scientists*, after a
          y="1049.1158"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:'Komika Text Kaps';-inkscape-font-specification:'Komika Text Kaps';fill:#000000;stroke:none">CC-BY-SA</tspan></text>
     <image
-       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_089/Elvie_089_panel_1.png"
-       xlink:href="Elvie_089_panel_1.png"
-       mask="url(#mask165)"
-       clip-path="none"
-       width="238.37192"
-       height="300.96597"
-       preserveAspectRatio="none"
-       id="image97"
+       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_089/089_panel_1.png"
+       xlink:href="089_panel_1.png"
+       y="751.91473"
        x="-6.11695"
-       y="751.91473" />
+       id="image97"
+       preserveAspectRatio="none"
+       height="300.96597"
+       width="238.37192"
+       clip-path="none"
+       mask="url(#mask165)" />
     <path
        style="fill:#c8b7b7;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 130.27697,918.10123 71.71209,8.76481 -2.78881,51.29406 -72.21009,-15.23881 z"
        id="path1439"
        inkscape:connector-curvature="0" />
     <image
-       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_089/Elvie_089_panel_2.png"
-       xlink:href="Elvie_089_panel_2.png"
-       clip-path="url(#clipPath145)"
-       width="457.34024"
-       height="280.78998"
-       preserveAspectRatio="none"
-       id="image108"
+       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_089/089_panel_2.png"
+       xlink:href="089_panel_2.png"
+       y="771.15283"
        x="198.25282"
-       y="771.15283" />
+       id="image108"
+       preserveAspectRatio="none"
+       height="280.78998"
+       width="457.34024"
+       clip-path="url(#clipPath145)" />
     <path
        style="fill:#550000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 130.72277,911.10087 71.68708,8.15255 -0.28171,7.88793 -71.92754,-8.75015 z"

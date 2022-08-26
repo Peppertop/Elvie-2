@@ -116,14 +116,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.126074"
-     inkscape:cx="318.89764"
+     inkscape:cx="319.83834"
      inkscape:cy="141.73228"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1499"
      inkscape:window-height="1003"
-     inkscape:window-x="256"
+     inkscape:window-x="248"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      units="mm"
@@ -208,15 +208,15 @@ Salesman: One day we'll stop supporting the app, and your shiny, expensive hardw
      transform="translate(0,-768.89763)"
      style="display:inline">
     <image
-       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_091/../../../Strips/091_LM#251/panel_2.png"
-       xlink:href="../../../Strips/091_LM#251/panel_2.png"
-       id="image95"
-       preserveAspectRatio="none"
-       height="3408"
-       width="4538.6665"
-       transform="matrix(0.11242941,0,0,0.11242941,191.80344,667.92228)"
+       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_091/091_panel_2.png"
+       xlink:href="091_panel_2.png"
+       clip-path="url(#clipPath107)"
        style="opacity:1"
-       clip-path="url(#clipPath107)" />
+       transform="matrix(0.11242941,0,0,0.11242941,191.80344,667.92228)"
+       width="4538.6665"
+       height="3408"
+       preserveAspectRatio="none"
+       id="image95" />
     <text
        id="text3092"
        y="1049.1158"
@@ -251,15 +251,15 @@ Salesman: One day we'll stop supporting the app, and your shiny, expensive hardw
          x="131.3196"
          y="853.97876" /></text>
     <image
-       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_091/../../../Strips/091_LM#251/panel_1.png"
-       xlink:href="../../../Strips/091_LM#251/panel_1.png"
-       mask="url(#mask75)"
-       clip-path="none"
-       transform="matrix(0.11089902,0,0,0.11089902,-57.935759,670.95761)"
-       width="4613.3335"
-       height="3461.3333"
+       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_091/091_panel_1.png"
+       xlink:href="091_panel_1.png"
+       id="image93"
        preserveAspectRatio="none"
-       id="image93" />
+       height="3461.3333"
+       width="4613.3335"
+       transform="matrix(0.11089902,0,0,0.11089902,-57.935759,670.95761)"
+       clip-path="none"
+       mask="url(#mask75)" />
   </g>
   <g
      inkscape:groupmode="layer"

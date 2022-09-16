@@ -115,7 +115,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1401851"
-     inkscape:cx="318.89764"
+     inkscape:cx="319.83214"
      inkscape:cy="141.73228"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
@@ -169,6 +169,13 @@ Caption: What I hear…
 
 Salesman: You'll need to sign up for yet another account and we'll do our best to punch a hole through your firewall…
 </dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Smart home</rdf:li>
+            <rdf:li>gadgets</rdf:li>
+            <rdf:li>The cloud</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
@@ -243,23 +250,23 @@ Salesman: You'll need to sign up for yet another account and we'll do our best t
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_092/092_panel_1.png"
        xlink:href="092_panel_1.png"
-       y="771.65625"
-       x="-13.150703"
-       id="image86"
-       preserveAspectRatio="none"
-       height="280.22864"
+       mask="url(#mask138)"
        width="406.707"
-       mask="url(#mask138)" />
+       height="280.22864"
+       preserveAspectRatio="none"
+       id="image86"
+       x="-13.150703"
+       y="771.65625" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie-2/Elvie_092/092_panel_2.png"
        xlink:href="092_panel_2.png"
-       y="773.26483"
-       x="267.07837"
-       id="image97"
-       preserveAspectRatio="none"
-       height="277.46194"
+       clip-path="url(#clipPath105)"
        width="403.14981"
-       clip-path="url(#clipPath105)" />
+       height="277.46194"
+       preserveAspectRatio="none"
+       id="image97"
+       x="267.07837"
+       y="773.26483" />
   </g>
   <g
      inkscape:groupmode="layer"

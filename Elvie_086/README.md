@@ -1,3 +1,5 @@
+![Elvie comic strip #086](Elvie_086_en-GB.jpg)
+
 Elvie #086
 ==========
 This strip first appeared in issue #246 of Linux (Pro) Magazine and was created in January 2021, shortly after the release of the Raspberry Pi Pico.

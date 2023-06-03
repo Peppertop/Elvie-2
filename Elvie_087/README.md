@@ -1,3 +1,5 @@
+![Elvie comic strip #087](Elvie_087_en-GB.jpg)
+
 Elvie #087
 ==========
 This strip first appeared in issue #247 of Linux (Pro) Magazine and was created early in 2021, shortly after the release of Apple's first M1 CPU.

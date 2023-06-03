@@ -1,3 +1,5 @@
+![Elvie comic strip #055](Elvie_055_en-GB.jpg)
+
 Elvie #055
 ==========
 This strip first appeared in issue #215 of Linux (Pro) Magazine. This one was based on the true story of my

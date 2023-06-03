@@ -1,3 +1,5 @@
+![Elvie comic strip #050](Elvie_050_en-GB.jpg)
+
 Elvie #050
 ==========
 This strip appeared in issue #210 of Linux (Pro) Magazine.

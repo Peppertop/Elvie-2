@@ -1,3 +1,5 @@
+![Elvie comic strip #061](Elvie_061_en-GB.jpg)
+
 Elvie #061
 ==========
 This strip first appeared in issue #221 of Linux (Pro) Magazine, shortly after Microsoft announced that Edge, their web

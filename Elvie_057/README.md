@@ -1,3 +1,5 @@
+![Elvie comic strip #057](Elvie_057_en-GB.jpg)
+
 Elvie #057
 ==========
 This strip first appeared in issue #217 of Linux (Pro) Magazine, and is the second of a trilogy of cartoons making up

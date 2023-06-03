@@ -1,3 +1,5 @@
+![Elvie comic strip #058](Elvie_058_en-GB.jpg)
+
 Elvie #058
 ==========
 This strip first appeared in issue #218 of Linux (Pro) Magazine, and is the final part of a trilogy of cartoons making up

@@ -1,3 +1,5 @@
+![Elvie comic strip #042](Elvie_042_en-GB.jpg)
+
 Elvie #042
 ==========
 This strip appeared in issue #202 of Linux (Pro) Magazine, shortly after the WannaCry malware hit the UK's

@@ -1,3 +1,5 @@
+![Elvie comic strip #041](Elvie_041_en-GB.jpg)
+
 Elvie #041
 ==========
 This strip appeared in issue #201 of Linux (Pro) Magazine, shortly after Canonical announced that they were

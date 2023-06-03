@@ -1,3 +1,5 @@
+![Elvie comic strip #081](Elvie_081_en-GB.jpg)
+
 Elvie #081
 ==========
 This strip first appeared in issue #241 of Linux (Pro) Magazine during the coronavirus pandemic of 2020. At that time some sections of the population objected to being required to wear face masks in public indoor environments because it allegedly "encroaches on their civil liberties". It amused us to note that a lot of those psuedo-libertarians are exactly the sort of people who previously would have preferred to wear a mask in public in order to hide their face from CCTV cameras.

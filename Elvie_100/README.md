@@ -1,3 +1,5 @@
+![Elvie comic strip #100](Elvie_100_en-GB.jpg)
+
 Elvie #100
 ==========
 This strip first appeared in issue #260 of Linux (Pro) Magazine. The Elvie series was originally written for Linux Voice

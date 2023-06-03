@@ -1,3 +1,5 @@
+![Elvie comic strip #077](Elvie_077_en-GB.jpg)
+
 Elvie #077
 ==========
 This strip first appeared in issue #237 of Linux (Pro) Magazine. It was created in mid-2020, at a time when the news was filled with talk of governments around the world creating apps that would use Bluetooth to track your exposure, in terms of proximity and duration, to people who  subsequently tested positive for covid-19. These were generally referred to as "contact tracing" apps.

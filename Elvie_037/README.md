@@ -1,3 +1,5 @@
+![Elvie comic strip #037](Elvie_037_en-GB.jpg)
+
 Elvie #037
 ==========
 This strip appeared in issue #197 of Linux (Pro) Magazine, after it was confirmed that the Democrats' email

@@ -1,3 +1,5 @@
+![Elvie comic strip #059](Elvie_059_en-GB.jpg)
+
 Elvie #059
 ==========
 This strip first appeared in issue #219 of Linux (Pro) Magazine, shortly after a Code of Conduct was introduced for

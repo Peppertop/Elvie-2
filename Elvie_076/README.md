@@ -1,3 +1,5 @@
+![Elvie comic strip #076](Elvie_076_en-GB.jpg)
+
 Elvie #076
 ==========
 This strip first appeared in issue #236 of Linux (Pro) Magazine.

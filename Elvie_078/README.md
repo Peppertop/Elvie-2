@@ -1,3 +1,5 @@
+![Elvie comic strip #078](Elvie_078_en-GB.jpg)
+
 Elvie #078
 ==========
 This strip first appeared in issue #238 of Linux (Pro) Magazine. It's the first of a pair of strips that are slightly related in their use of tennis as a subject matter. The second strip was written first, with this one subsequently created as a "lead-in".

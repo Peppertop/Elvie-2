@@ -1,3 +1,5 @@
+![Elvie comic strip #054](Elvie_054_en-GB.jpg)
+
 Elvie #054
 ==========
 This strip appeared in issue #214 of Linux (Pro) Magazine in early 2018, shortly after the release of the film "Ocean's 8",

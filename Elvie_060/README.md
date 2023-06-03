@@ -1,3 +1,5 @@
+![Elvie comic strip #060](Elvie_060_en-GB.jpg)
+
 Elvie #060
 ==========
 This strip first appeared in issue #220 of Linux (Pro) Magazine, and was the 60th Elvie strip to appear in print. To celebrate

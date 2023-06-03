@@ -1,3 +1,5 @@
+![Elvie comic strip #056](Elvie_056_en-GB.jpg)
+
 Elvie #056
 ==========
 This strip first appeared in issue #216 of Linux (Pro) Magazine, and is the first of a trilogy of cartoons making up

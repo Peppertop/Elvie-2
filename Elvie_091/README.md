@@ -1,3 +1,5 @@
+![Elvie comic strip #091](Elvie_091_en-GB.jpg)
+
 Elvie #091
 ==========
 This strip first appeared in issue #251 of Linux (Pro) Magazine. It's the first of a pair of strips that summarise

@@ -1,3 +1,5 @@
+![Elvie comic strip #080](Elvie_080_en-GB.jpg)
+
 Elvie #080
 ==========
 This strip first appeared in issue #240 of Linux (Pro) Magazine. It was created at a time when the rise of the Black Lives Matters movement resulted in lots of organisations making relatively small changes in their wording and terminology so that they could appear to be doing the right thing, while not actually making any substantial changes that might have a real and lasting impact on minority groups. This strip is intended to poke fun at such "virtue signalling".

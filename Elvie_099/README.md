@@ -1,3 +1,5 @@
+![Elvie comic strip #099](Elvie_099_en-GB.jpg)
+
 Elvie #099
 ==========
 This strip first appeared in issue #259 of Linux (Pro) Magazine. This was shortly after Russia's invasion of Ukraine, so we chose to colour the logo, and Elvie's hair and T-shirt as a small gesture of solidarity with the Ukrainian people.

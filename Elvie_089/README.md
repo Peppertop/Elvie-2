@@ -1,3 +1,5 @@
+![Elvie comic strip #089](Elvie_089_en-GB.jpg)
+
 Elvie #089
 ==========
 This strip first appeared in issue #249 of Linux (Pro) Magazine and was created in 2021, shortly after NASA's Perseverance rover and Ingenuity drone began operating on Mars. At that time NASA released audio recordings that were captured by the rover.

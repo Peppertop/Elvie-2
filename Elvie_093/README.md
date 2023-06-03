@@ -1,3 +1,5 @@
+![Elvie comic strip #093](Elvie_093_en-GB.jpg)
+
 Elvie #093
 ==========
 This strip first appeared in issue #253 of Linux (Pro) Magazine. Usually Mark writes these strips, Vince draws the images, then

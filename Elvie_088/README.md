@@ -1,3 +1,5 @@
+![Elvie comic strip #088](Elvie_088_en-GB.jpg)
+
 Elvie #088
 ==========
 This strip first appeared in issue #248 of Linux (Pro) Magazine and was created in 2021, shortly after NASA's Perseverance rover and Ingenuity drone began operating on Mars.

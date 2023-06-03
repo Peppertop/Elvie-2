@@ -1,3 +1,5 @@
+![Elvie comic strip #094](Elvie_094_en-GB.jpg)
+
 Elvie #094
 ==========
 This strip first appeared in issue #254 of Linux (Pro) Magazine, in October 2021 when the price of Bitcoin was approaching

@@ -1,3 +1,5 @@
+![Elvie comic strip #070](Elvie_070_en-GB.jpg)
+
 Elvie #070
 ==========
 This strip first appeared in issue #230 of Linux (Pro) Magazine, and is the last in a trilogy of strips following

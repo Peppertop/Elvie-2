@@ -1,3 +1,5 @@
+![Elvie comic strip #039](Elvie_039_en-GB.jpg)
+
 Elvie #039
 ==========
 This strip was created in February/March of 2017 and appeared in issue #199 of Linux (Pro) Magazine. It's the second

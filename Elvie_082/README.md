@@ -1,3 +1,5 @@
+![Elvie comic strip #082](Elvie_082_en-GB.jpg)
+
 Elvie #082
 ==========
 This strip first appeared in issue #242 of Linux (Pro) Magazine, and was paired with the following strip because they both have a home renovation or DIY theme to them.

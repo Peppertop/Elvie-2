@@ -1,3 +1,5 @@
+![Elvie comic strip #046](Elvie_046_en-GB.jpg)
+
 Elvie #046
 ==========
 

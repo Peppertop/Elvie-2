@@ -1,3 +1,5 @@
+![Elvie comic strip #053](Elvie_053_en-GB.jpg)
+
 Elvie #053
 ==========
 This strip appeared in issue #213 of Linux (Pro) Magazine in early 2018, shortly after the revelations that

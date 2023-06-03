@@ -1,3 +1,5 @@
+![Elvie comic strip #052](Elvie_052_en-GB.jpg)
+
 Elvie #052
 ==========
 This strip appeared in issue #212 of Linux (Pro) Magazine in early 2018, at a time when there was much

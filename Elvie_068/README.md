@@ -1,3 +1,5 @@
+![Elvie comic strip #068](Elvie_068_en-GB.jpg)
+
 Elvie #068
 ==========
 This strip first appeared in issue #228 of Linux (Pro) Magazine, and is inspired by the concerns of every artist or

@@ -1,3 +1,5 @@
+![Elvie comic strip #096](Elvie_096_en-GB.jpg)
+
 Elvie #096
 ==========
 This strip first appeared in issue #256 of Linux (Pro) Magazine. It refers to the fact that Apple's Safari is effectively

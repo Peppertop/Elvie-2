@@ -1,3 +1,5 @@
+![Elvie comic strip #044](Elvie_044_en-GB.jpg)
+
 Elvie #044
 ==========
 This strip appeared in issue #204 of Linux (Pro) Magazine. It's the second of a pair of strips, so if you haven't seen it yet you might want to look at [the previous one](http://peppertop.com/elvie/comic/elvie-043/) as well.

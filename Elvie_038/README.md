@@ -1,3 +1,5 @@
+![Elvie comic strip #038](Elvie_038_en-GB.jpg)
+
 Elvie #038
 ==========
 This strip was created in January/February of 2017 and appeared in issue #198 of Linux (Pro) Magazine. It's one of
